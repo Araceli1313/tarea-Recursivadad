@@ -1,0 +1,14 @@
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\bin\Debug\net8.0\Tarea - Recursividad.exe
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\bin\Debug\net8.0\Tarea - Recursividad.deps.json
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\bin\Debug\net8.0\Tarea - Recursividad.runtimeconfig.json
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\bin\Debug\net8.0\Tarea - Recursividad.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\bin\Debug\net8.0\Tarea - Recursividad.pdb
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.AssemblyInfoInputs.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.AssemblyInfo.cs
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.csproj.CoreCompileInputs.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\refint\Tarea - Recursividad.dll
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.pdb
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\Tarea - Recursividad.genruntimeconfig.cache
+C:\Users\asenc\Desktop\CURSO\CURSO\PROGRAMACION ll\Tarea - Recursividad\obj\Debug\net8.0\ref\Tarea - Recursividad.dll
